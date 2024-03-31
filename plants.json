@@ -1,0 +1,36 @@
+    [
+        {
+          "name": "BRAHMI",
+          "common_names": {
+            "English": ["Hespestis monniera", "water hyssop", "Indian Pennywort", "Jalnaveri"]
+        },
+            "soil_and_climate": {
+                "description": "The plant grows exceptionally well in poorly drained soils and waterlogged areas.",
+            "climate": [
+              "Thrives in sub-tropical conditions.",
+              "Prefers high temperatures (33°C to 40°C) and humidity (65% to 80%).",
+              "Cultivation recommended as a summer-rainy season crop, indicating preference for warm and humid climates."
+            ]
+          },
+          "planting_techniques": [
+            {
+              "description": "The field should be ploughed thoroughly and made free of weeds. The land should be irrigated a day before planting for successful establishment of plant cuttings."
+            }
+          ],
+          "planting_materials": {
+            "description": "Plant cuttings about 4-5 cm long, each containing a few leaves, nodes and roots are ideal planting materials. These can be obtained by cutting mother plants into small pieces with roots.",
+            "transplanting_instructions": "The cuttings are transplanted in wet soil at spacing of 40 cm x 40 cm. Flood irrigation is provided immediately after planting."
+          },
+          "planting_schedule": {
+            "ideal_months": "March-June",
+            "growth_period": "March to September",
+            "harvesting_schedule": "June and October",
+            "perennial_harvesting": "The plants can also be maintained in a perennial state with two harvests in a year, the first one in June and the other one after monsoon, in October."
+          },
+          "irrigation": {
+            "transplanting": "Irrigation immediately after transplanting is essential for the successful survival of the plants.",
+            "regular": "Subsequently, the fields are irrigated by flooding as per requirement usually every 7-8 days.",
+            "monsoon": "There is no need for irrigation during the monsoon."
+        }
+    }
+]
